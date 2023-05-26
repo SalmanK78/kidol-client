@@ -1,0 +1,8 @@
+.links:hover{
+    transition: 0.5s;
+    color:purple;
+}
+.header{
+    background-size: contain;
+    color: #C2E0EB;
+}

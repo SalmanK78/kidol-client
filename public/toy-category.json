@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Teddy Bear",
+      "image": "https://htmldemo.net/kidol/kidol/assets/img/category/3.png",
+      "price": 19.99
+    },
+    {
+      "name": "Car Toy",
+      "image": "https://htmldemo.net/kidol/kidol/assets/img/category/2.png",
+      "price": 29.99
+    },
+    {
+      "name": "Math Toy",
+      "image": "https://htmldemo.net/kidol/kidol/assets/img/shop/8.png",
+      "price": 14.99
+    },
+    {
+      "name": "Math",
+      "image": "https://htmldemo.net/kidol/kidol/assets/img/shop/8.png",
+      "price": 14.99
+    }
+]
